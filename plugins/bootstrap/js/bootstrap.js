@@ -21,7 +21,9 @@
   }
 
   // Hiển thị thông báo
-  console.log('Scr code được thiết kế bởi tozpie');
+   window.alert("Xin chào!");
+        window.alert(1);
+        window.alert(true);
 
   function _createClass(Constructor, protoProps, staticProps) {
     if (protoProps) _defineProperties(Constructor.prototype, protoProps);
